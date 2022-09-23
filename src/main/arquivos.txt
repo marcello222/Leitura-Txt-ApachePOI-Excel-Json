@@ -1,0 +1,6 @@
+Marcello;pessoa1@gmail.com;50
+José;pessoa2@gmail.com;30
+Marta;pessoa3@gmail.com;20
+
+
+
